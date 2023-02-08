@@ -1,0 +1,14 @@
+{
+  "rewrites": [
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "app.ryne.io"
+        }
+      ],
+      "destination": "/genshin-timer/:path*"
+    }
+  ]
+}

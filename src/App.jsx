@@ -38,7 +38,7 @@ const App = () => {
   return (
     <>   
       <header>
-        <img src={resinicon}/>
+        <img src={resinicon} alt="Genshin Resin Icon"/>
         <div>
           <h1>Resin Timer</h1>
           <h3>Gensin Impact resin timer</h3>

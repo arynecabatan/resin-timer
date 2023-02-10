@@ -1,0 +1,23 @@
+{
+  "short_name": "Genshin Timer",
+  "name": "Genshin Resin Timer",
+  "icons": [
+    {
+      "src": "/src/assets/resin-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/src/assets/resin-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "id": "/",
+  "start_url": "/",
+  "background_color": "#f5f6fb",
+  "scope": "/",
+  "theme_color": "#657ef8",
+  "display": "standalone",
+  "description": "A small calculator designed to assist Genshin Impact players in calculating and utilizing their resin count."
+}
